@@ -3,6 +3,14 @@
 
 int main( int argc, char **argv ) 
 {
+	/**
+	 *	FUNCION PRINCIPAL DEL PROGRAMA.
+	 *
+	 *
+	 *
+	 *
+	 */
+
 	if( argc != 1 ){
 		printf("El programa no debe llevar argumentos\n");
 		return 1;
